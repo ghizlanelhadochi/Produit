@@ -15,8 +15,8 @@
       "quantity": 5,
       "price": 29.99,
       "promotion": false,
-      "start": 0,
-      "image": ""
+      "start": 6,
+      "image": "images/2.png"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "quantity": 8,
       "price": 49.99,
       "promotion": false,
-      "start": 0,
-      "image": ""
+      "start": 3,
+      "image": "images/3.png"
     }
   ]
 }
