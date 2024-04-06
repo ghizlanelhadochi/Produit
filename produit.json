@@ -1,10 +1,31 @@
- {
-         
-         "reference":"ER34425617836354",
-         "description":"COCA COLA PET 1.5L",
-         "quantity":1,
-         "price":54.00,
-         "HT":54.00,
-         "TVA":10.80,
-         "TTC":64.80
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "quantity": 10,
+      "price": 15.99,
+      "promotion": false,
+      "start": 5,
+      "image": "images/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "quantity": 5,
+      "price": 29.99,
+      "promotion": false,
+      "start": 0,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "Sneakers",
+      "quantity": 8,
+      "price": 49.99,
+      "promotion": false,
+      "start": 0,
+      "image": ""
+    }
+  ]
 }
